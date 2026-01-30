@@ -8,6 +8,7 @@ package homeworks.homework_01.consistently;
  **/
 public class ConsistentlySum {
     public static void main(String[] args) {
+
         // Cоздаем начало отсчета времени
         long start = System.currentTimeMillis();
 

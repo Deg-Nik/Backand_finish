@@ -8,6 +8,7 @@ package homeworks.homework_01.parallel;
  **/
 public class ParallelSum {
     public static void main(String[] args) throws InterruptedException {
+
         // Начало отсчета времени
         long start = System.currentTimeMillis();
 
