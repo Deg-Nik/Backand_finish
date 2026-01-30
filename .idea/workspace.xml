@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b753e87-fb0b-4697-9463-9119278fa32d" name="Changes" comment="add lesson 1" />
+    <list default="true" id="2b753e87-fb0b-4697-9463-9119278fa32d" name="Changes" comment="add lesson 1">
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_01/consistently/ConsistentlySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_01/parallel/ParallelSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_01/work.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LambdaThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_01/LambdaThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_01/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThreadExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_01/ThreadExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/runnable/RunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_01/runnable/RunnableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/runnable/TaskProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_01/runnable/TaskProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/runnable/ThreadStateDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lessons/lesson_01/runnable/ThreadStateDemo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,20 +44,22 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.LambdaThreadDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RunnableDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThreadStateDemo.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConsistentlySum.executor": "Run",
+    "Application.LambdaThreadDemo.executor": "Run",
+    "Application.ParallelSum.executor": "Run",
+    "Application.RunnableDemo.executor": "Run",
+    "Application.ThreadExample.executor": "Run",
+    "Application.ThreadStateDemo.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Backand finish" />
@@ -83,8 +96,27 @@
       <option name="project" value="LOCAL" />
       <updated>1769783977817</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add lesson 1">
+      <option name="closed" value="true" />
+      <created>1769783990268</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769783990268</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add lesson 1" />

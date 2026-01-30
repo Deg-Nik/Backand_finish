@@ -1,9 +1,10 @@
-/**
+package lessons.lesson_01; /**
  * @author : Nikolai Degtiarev
  * created : 29.01.26
  *
  *
  **/
+
 /**
  * Главный класс для демонстрации работы кастомных потоков MyTread.
  * Он создает и запускает два экземпляра MyTread.

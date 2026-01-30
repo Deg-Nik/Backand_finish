@@ -1,4 +1,4 @@
-import java.util.TreeMap;
+package lessons.lesson_01;
 
 /**
  * @author : Nikolai Degtiarev

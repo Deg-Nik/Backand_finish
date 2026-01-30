@@ -1,4 +1,4 @@
-/**
+package lessons.lesson_01; /**
  * @author : Nikolai Degtiarev
  * created : 30.01.26
  *

@@ -1,4 +1,4 @@
-package runnable;
+package lessons.lesson_01.runnable;
 
 /**
  * @author : Nikolai Degtiarev
