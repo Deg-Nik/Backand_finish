@@ -1,5 +1,7 @@
 package homeworks.homework_01.parallel;
 
+import homeworks.homework_01.Result;
+
 /**
  * @author : Nikolai Degtiarev
  * created : 30.01.26
@@ -7,7 +9,7 @@ package homeworks.homework_01.parallel;
  *
  **/
 public class ParallelSum {
-    public static void main(String[] args) throws InterruptedException {
+    public static Result calculate() throws InterruptedException {
 
         // Начало отсчета времени
         long start = System.currentTimeMillis();
@@ -44,8 +46,6 @@ public class ParallelSum {
         // окончание подсчета времени
         long end = System.currentTimeMillis();
 
-        System.out.println("Параллельный подсчет");
-        System.out.println("Cумма подсчета = " + total);
-        System.out.println("Время подсчета = " + (end - start) + " мс");
+       return new Result(total, end - start);
     }
 }

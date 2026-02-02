@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b753e87-fb0b-4697-9463-9119278fa32d" name="Changes" comment="add lesson 1">
+    <list default="true" id="2b753e87-fb0b-4697-9463-9119278fa32d" name="Changes" comment="add homework 01">
+      <change afterPath="$PROJECT_DIR$/src/homeworks/CompareSums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homeworks/homework_01/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeworks/homework_01/consistently/ConsistentlySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_01/consistently/ConsistentlySum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/homeworks/homework_01/parallel/ParallelSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_01/parallel/ParallelSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworks/homework_01/work.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/homeworks/homework_01/work.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,18 +31,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Deg-Nik"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Deg-Nik&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Deg-Nik/Backand_finish.git",
-    "accountId": "bace1992-bdd0-4ab8-9da4-f9399b57e716"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Deg-Nik/Backand_finish.git&quot;,
+    &quot;accountId&quot;: &quot;bace1992-bdd0-4ab8-9da4-f9399b57e716&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
@@ -56,6 +58,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CompareSums.executor": "Run",
     "Application.ConsistentlySum.executor": "Run",
     "Application.LambdaThreadDemo.executor": "Run",
     "Application.ParallelSum.executor": "Run",
@@ -64,8 +67,9 @@
     "Application.ThreadStateDemo.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "homework__01",
+    "git-widget-placeholder": "#1 on homework__01",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -101,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769783990268</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add homework 01">
+      <option name="closed" value="true" />
+      <created>1769789341652</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769789341652</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +129,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add lesson 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson 1" />
+    <MESSAGE value="add homework 01" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework 01" />
   </component>
 </project>
