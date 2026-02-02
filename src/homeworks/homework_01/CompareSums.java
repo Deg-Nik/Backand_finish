@@ -1,6 +1,5 @@
-package homeworks;
+package homeworks.homework_01;
 
-import homeworks.homework_01.Result;
 import homeworks.homework_01.consistently.ConsistentlySum;
 import homeworks.homework_01.parallel.ParallelSum;
 
