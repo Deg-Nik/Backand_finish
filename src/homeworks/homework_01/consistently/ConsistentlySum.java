@@ -1,5 +1,7 @@
 package homeworks.homework_01.consistently;
 
+import homeworks.homework_01.Result;
+
 /**
  * @author : Nikolai Degtiarev
  * created : 30.01.26
@@ -7,7 +9,8 @@ package homeworks.homework_01.consistently;
  *
  **/
 public class ConsistentlySum {
-    public static void main(String[] args) {
+    public static Result calculate() {
+
         // Cоздаем начало отсчета времени
         long start = System.currentTimeMillis();
 
@@ -18,8 +21,6 @@ public class ConsistentlySum {
         // Cоздаем конец отсчета времени
         long end = System.currentTimeMillis();
 
-        System.out.println("Последовательный подсчет");
-        System.out.println("Сумма чисел = " + sum);
-        System.out.println("Время выполнения = " + (end - start) + " мс");
+        return new Result(sum, end - start);
     }
 }
